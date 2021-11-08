@@ -50,3 +50,5 @@ Real estate: researching apartment ads
 *total_area — площадь квартиры в квадратных метрах (м²)
 
 *total_images — число фотографий квартиры в объявлении
+
+**Данные предоставлены**: Practicum by Yandex
