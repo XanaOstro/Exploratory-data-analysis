@@ -1,5 +1,5 @@
-# Exploratory-data-analysis
-Real estate: researching apartment ads
+# Exploratory data analysis
+**Real estate: researching apartment ads**
 
 **Цель проекта**: установить параметры для определения рыночной стоимости недвижимости.
 
